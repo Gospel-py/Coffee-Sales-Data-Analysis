@@ -1,5 +1,7 @@
 # Coffee Sales Data Analysis ☕
 
+![Image](https://github.com/user-attachments/assets/700bc3d9-0b86-4eff-87e1-fb4f98387319)
+
 ## 📌 Project Overview
 This project analyzes coffee sales data to uncover key insights about sales trends, customer preferences, and product profitability. The dataset includes information on coffee types, roast levels, order details, and customer locations. Data cleaning, transformation, and visualization were performed using **Microsoft Excel**.
 
